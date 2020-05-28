@@ -7,7 +7,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-  array = array.Reverse
+  array = array.reverse
   return array
 end
 
